@@ -1,2 +1,8 @@
 # Net-Scan
-Network Scanner Python
+Network Scanner in Python
+
+---
+
+# Usage
+
+`git clone  
